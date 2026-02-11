@@ -25,7 +25,7 @@ To run this project locally:
 - **CSS3**: Advanced styling including Flexbox, Grid, CSS Variables, and Keyframe animations.
 - **JavaScript (ES6+)**: Functional logic for calculations, theme management, and event handling.
 
-## ⌨️ Keyboard Shortcuts
+##  Keyboard Shortcuts
 
 | Key | Action |
 |-----|--------|
